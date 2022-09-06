@@ -1,5 +1,6 @@
 .env
 .hgignore
+__pycache__/**/*
 
 # no data files!
 **/*.jpg

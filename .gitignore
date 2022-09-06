@@ -1,0 +1,8 @@
+.env
+.hgignore
+
+# no data files!
+**/*.jpg
+**/*.gif
+**/*.pdf
+**/*.txt
